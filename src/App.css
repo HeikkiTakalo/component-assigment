@@ -13,3 +13,32 @@
     margin-right: 10px;
     height: 40px;
 }
+
+.product-form {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+.product-label {
+    margin-right: 10px;
+}
+
+
+.product-container {
+    margin-bottom: 20px;
+}
+
+
+.product-selection {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.quantity-selection {
+    margin-top: 10px;
+}
