@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
 import Header from './header';
-import Product from './product'
+import Product from './product';
 import './App.css';
 
 function App() {

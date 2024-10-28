@@ -8,11 +8,11 @@
     margin-bottom: 20px;
 }
 
-
 .header-logo {
     margin-right: 10px;
     height: 40px;
 }
+
 
 .product-form {
     background-color: white;
@@ -21,7 +21,6 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 }
-
 
 .product-label {
     margin-right: 10px;
@@ -34,11 +33,48 @@
 
 
 .product-selection {
-    margin-top: 10px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 10px;
 }
 
 
 .quantity-selection {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.order-info {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     margin-top: 10px;
+}
+
+
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.order-table th,
+.order-table td {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    text-align: left;
+}
+
+.order-table th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+
+.order-table tr:hover {
+    background-color: #f1f1f1;
 }
