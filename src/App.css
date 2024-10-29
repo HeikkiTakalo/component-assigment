@@ -15,7 +15,7 @@
 
 
 .product-form {
-    background-color: white;
+    background-color: rgb(203, 203, 203)14, 213, 213);
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -77,4 +77,8 @@
 
 .order-table tr:hover {
     background-color: #f1f1f1;
+}
+
+body{
+    background-color: #e9e9e9;
 }
